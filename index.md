@@ -9,7 +9,9 @@ Ph.D in Department of Electrical Engineering, City University of Hong Kong, Hong
  Security over cyber-physical systems, PID control, time-delay systems, networked control and estimation, robust control
 
 ### Contact Information
+
 **Tel**: 852+66777942/ 34429963
+
  **Email**：jqchenlove@gmail.com
 
 ### Education
@@ -19,7 +21,7 @@ City University of Hong Kong, Kowloon, Hong Kong, Ph.D., Electrical Engineering,
   
  • Supervisor: Prof. Jie Chen
  
- Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June 2014
+Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June 2014
  
  • Thesis: System identification based on the continuous reaction stirred tank
  
@@ -40,7 +42,9 @@ Visiting Student Researcher, Jan. 2016 - July 2016
  Work on zero dynamics attacks over multi-agent systems
 
 ### Honors
-• Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 CityU Research Travel Grant, July, 2017
+• Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 
+
+• CityU Research Travel Grant, July, 2017
 
 • CityU Overseas Research Award, Jan. 2016 - July, 2016
 
@@ -61,8 +65,10 @@ Visiting Student Researcher, Jan. 2016 - July 2016
 • Seminar, “Protecting positive and second-order systems against undetectable attacks”, NetCon Presentation, KTH, July, 2016.
 
 ### Professional Activities
+
 #### Reviewer
 • Automatica, IEEE Transactions on Automatic Control, International Journal of Robust and Nonlinear Control, IEEE Transactions on Neural Networks and Learning Systems, SIAM Journal on Control and Optimization, IET Control Theory and Applications, Journal of the Franklin Institute, CDC, IFAC, ACC, CCC, ECC, WCICA, ICCA.
+
 #### Teaching Assistant
 • GE2318 From Ancient Wisdom to Modern Science • EE1001 Foundations of Digital Techniques
 
