@@ -2,7 +2,7 @@
 ##  Jianqi Chen (陈建琪)
 
 ###  Current Position
-#### Research Associate of Electrical Engineering, City University of Hong Kong
+** Research Associate of Electrical Engineering, City University of Hong Kong
 
 #### Ph.D in Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, P.R. China
 
