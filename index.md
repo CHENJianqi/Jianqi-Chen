@@ -70,7 +70,9 @@ Visiting Student Researcher, Jan. 2016 - July 2016
 • Automatica, IEEE Transactions on Automatic Control, International Journal of Robust and Nonlinear Control, IEEE Transactions on Neural Networks and Learning Systems, SIAM Journal on Control and Optimization, IET Control Theory and Applications, Journal of the Franklin Institute, CDC, IFAC, ACC, CCC, ECC, WCICA, ICCA.
 
 #### Teaching Assistant
-• GE2318 From Ancient Wisdom to Modern Science • EE1001 Foundations of Digital Techniques
+• GE2318 From Ancient Wisdom to Modern Science 
+
+• EE1001 Foundations of Digital Techniques
 
 • EE2004 Microcomputer Systems
 
