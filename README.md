@@ -2,16 +2,16 @@
 ##  Jianqi Chen (陈建琪)
 
 ###  Current Position
-** Research Associate of Electrical Engineering, City University of Hong Kong
+Research Associate of Electrical Engineering, City University of Hong Kong
 
 #### Ph.D in Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, P.R. China
 
 ### Research Interests
-#### Security over cyber-physical systems, PID control, time-delay systems, networked control and estimation, robust control
+ Security over cyber-physical systems, PID control, time-delay systems, networked control and estimation, robust control
 
 ### Contact Information
-#### Tel 852+66777942/ 34429963
-#### Email：jqchenlove@gmail.com
+**Tel**: 852+66777942/ 34429963
+ **Email**：jqchenlove@gmail.com
 
 ### Education
 #### City University of Hong Kong, Kowloon, Hong Kong, Ph.D., Electrical Engineering, Sep. 2014 – Feb. 2020
