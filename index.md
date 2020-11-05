@@ -37,7 +37,7 @@ KTH Royal Institute of Techonology, Stockholm, Sweden
 
 Visiting Student Researcher, Jan. 2016 - July 2016
 
-• Host: [Prof. Karl Henrik Johansson]{https://people.kth.se/~kallej/}
+• Host: [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/)
 
  Work on zero dynamics attacks over multi-agent systems
 
