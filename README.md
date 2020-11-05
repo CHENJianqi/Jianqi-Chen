@@ -1,5 +1,4 @@
-# Jianqi-Chen
-Jianqi Chen‘s homepage
+
 ##  Jianqi Chen (陈建琪)
 
 ###  Current Position
