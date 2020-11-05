@@ -19,7 +19,7 @@ City University of Hong Kong, Kowloon, Hong Kong, Ph.D., Electrical Engineering,
 
   • Thesis: Delay margin achievable by PID control
   
- • Supervisor: Prof. Jie Chen
+ • Supervisor: [Prof. Jie Chen](http://www.ee.cityu.edu.hk/~jchen/Biography.html)
  
 Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June 2014
  
