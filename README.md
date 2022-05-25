@@ -2,8 +2,7 @@
 ##  Jianqi Chen (陈建琪)
 
 ###  Current Position
-Postdoctoral Researcher of \href{https://ece.hkust.edu.hk/}{\textbf{Electronic and Computer Engineering}},
-\href{https://hkust.edu.hk/}{\textbf{The Hong Kong University of Science and Technology}},  Kowloon, Hong Kong,  China 
+Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong,  China 
 
 #### Ph.D in Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, P.R. China
 
