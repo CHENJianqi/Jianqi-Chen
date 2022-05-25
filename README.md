@@ -31,7 +31,7 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 
 ### Publication 
 
-[Google Scholar]([http://www.cnblogs.com/sxdcgaq8080/p/7894828.html](https://scholar.google.com/citations?user=t0fTJngAAAAJ&hl=en))
+[Google Scholar](https://scholar.google.com/citations?user=t0fTJngAAAAJ&hl=en)
 
 ### Honors
 • Best Paper Award, the 5th Chinese Conference on Swarm Intelligence and Cooperative Control, Feb,  2022
