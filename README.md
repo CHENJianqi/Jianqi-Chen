@@ -59,8 +59,6 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 • GE2318 From Ancient Wisdom to Modern Science • EE1001 Foundations of Digital Techniques
 • EE2004 Microcomputer Systems
 • EE3114 Systems and Control
-#### Volunteering Work
-• Volunteer in the third IEEE Conference on Control Technology and Applications
-• Volunteer in the eighth National Para Games, China
+
 
 
