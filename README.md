@@ -29,7 +29,13 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 ##### • Host: Prof. Karl Henrik Johansson
 ##### Work on zero dynamics attacks over multi-agent systems
 
+### Publication 
+
+[Google Scholar]([http://www.cnblogs.com/sxdcgaq8080/p/7894828.html](https://scholar.google.com/citations?user=t0fTJngAAAAJ&hl=en))
+
 ### Honors
+• Best Paper Award, the 5th Chinese Conference on Swarm Intelligence and Cooperative Control, Feb,  2022
+
 • Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 CityU Research Travel Grant, July, 2017
 
 • CityU Overseas Research Award, Jan. 2016 - July, 2016
