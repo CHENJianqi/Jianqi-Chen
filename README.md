@@ -10,7 +10,6 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
  Security over cyber-physical systems, PID control, time-delay systems, networked control and estimation, robust control
 
 ### Contact Information
-**Tel**: 852+66777942/ 34429963
  **Email**：jqchenlove@gmail.com
 
 ### Education
@@ -27,7 +26,6 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 #### KTH Royal Institute of Techonology, Stockholm, Sweden
 ##### Visiting Student Researcher, Jan. 2016 - July 2016
 ##### • Host: Prof. Karl Henrik Johansson
-##### Work on zero dynamics attacks over multi-agent systems
 
 ### Publication
 
@@ -55,10 +53,7 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 ### Professional Activities
 #### Reviewer
 • Automatica, IEEE Transactions on Automatic Control, International Journal of Robust and Nonlinear Control, IEEE Transactions on Neural Networks and Learning Systems, SIAM Journal on Control and Optimization, IET Control Theory and Applications, Journal of the Franklin Institute, CDC, IFAC, ACC, CCC, ECC, WCICA, ICCA.
-#### Teaching Assistant
-• GE2318 From Ancient Wisdom to Modern Science • EE1001 Foundations of Digital Techniques
-• EE2004 Microcomputer Systems
-• EE3114 Systems and Control
+
 
 
 
