@@ -16,7 +16,7 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 #### City University of Hong Kong, Kowloon, Hong Kong, Ph.D., Electrical Engineering, Sep. 2014 – Feb. 2020
   • Thesis: Delay margin achievable by PID control
  • Supervisor: Prof. Jie Chen
-#### Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June 
+#### Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June. 2014
 #### Mixed Honors Class, Chu Kochen Honors College, Sep. 2010-Sep. 2012
 
 
