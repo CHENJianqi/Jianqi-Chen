@@ -44,9 +44,13 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 
 ### Invited Talks
 • Seminar, “Sensor placement of cone-invariant and multi-agent systems against undetectable zero dynamics attacks ”, Seminar series on Complex systems, Networks, Control and Applications, CityU&PolyU, Oct, 2020.
+
 • Invited talk, “Delay margin achievable by PID control”, Hong Kong Control Workshop, HKUST, June, 2019.
+
 • Seminar, “Delay margin achievable by PID control”, Seminar series on Complex systems, Networks, Control and Applications, CityU&PolyU, May, 2019.
+
 • Seminar, “Protecting positive and second-order systems against undetectable attacks”, Postgraduate Research Seminar Series, CityU, Oct., 2016.
+
 • Seminar, “Protecting positive and second-order systems against undetectable attacks”, NetCon Presentation, KTH, July, 2016.
 
 ### Professional Activities
