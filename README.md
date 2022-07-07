@@ -32,13 +32,14 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 ### Honors
 • Best Paper Award, the 5th Chinese Conference on Swarm Intelligence and Cooperative Control, Feb, 2022
 
-• Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 CityU Research Travel Grant, July, 2017
+• Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 
+
+• CityU Research Travel Grant, July, 2017
 
 • CityU Overseas Research Award, Jan. 2016 - July, 2016
 
 • CityU Postgraduate Studentship, Sept. 2014-Aug, 2018
 
-• ZJU Third-Class Scholarship, 2011, 2012, 2013
 
 
 ### Invited Talks
