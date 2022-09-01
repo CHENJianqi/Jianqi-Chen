@@ -57,7 +57,7 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 
 ### Professional Activities
 #### Reviewer
-• Automatica, IEEE Transactions on Automatic Control, International Journal of Robust and Nonlinear Control, IEEE Transactions on Neural Networks and Learning Systems, SIAM Journal on Control and Optimization, IET Control Theory and Applications, Journal of the Franklin Institute, CDC, IFAC, ACC, CCC, ECC, WCICA, ICCA.
+• Automatica, IEEE Transactions on Automatic Control, International Journal of Robust and Nonlinear Control, IEEE Transactions on Neural Networks and Learning Systems, SIAM Journal on Control and Optimization, IET Control Theory and Applications, Journal of the Franklin Institute, Neurocomputing, CDC, IFAC, ACC, CCC, ECC, WCICA, ICCA.
 
 
 
