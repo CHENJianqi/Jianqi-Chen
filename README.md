@@ -15,8 +15,8 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 ### Education
 #### City University of Hong Kong, Kowloon, Hong Kong, Ph.D., Electrical Engineering, Sep. 2014 – Feb. 2020
   • Thesis: Delay margin achievable by PID control
- • Supervisor: Prof. Jie Chen
-#### Zhejiang University, Hangzhou, Zhejiang, China,B.E., Control Science and Eigineering, Sep. 2010-June. 2014
+  • Supervisor: Prof. Jie Chen
+#### Zhejiang University, Hangzhou, Zhejiang, China, B.E., Control Science and Eigineering, Sep. 2010-June. 2014
 #### Mixed Honors Class, Chu Kochen Honors College, Sep. 2010-Sep. 2012
 
 
@@ -30,6 +30,8 @@ Postdoctoral Researcher of Electronic and Computer Engineering, The Hong Kong Un
 [Google Scholar](https://scholar.google.com/citations?user=t0fTJngAAAAJ&hl=en)
 
 ### Honors
+• Best Paper Award Finalist, 14th IFAC Workshop on Adaptive and Learning Control Systems, June, 2022
+
 • Best Paper Award, the 5th Chinese Conference on Swarm Intelligence and Cooperative Control, Feb, 2022
 
 • Guan Zhao-Zhi Best Paper Award, the 38th Chinese Control Conference, July, 2019 
